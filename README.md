@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-Full Stack Developer | HTML | CSS | Javascript | Php | Python | Competitive Programming
+Full Stack Developer | HTML | CSS | JavaScript | PHP | Python | Competitive Programming
 
 ## About :sunglasses:
 I graduated in Computer Science. I have more than 15 years of experience in web development and teaching computer science subjects at various levels. I also have more than ten (10) years of experience managing the IT department of the FGEIs. I am keen to learn new technologies. I am enrolled in Microverse to learn the correct way of coding. 
