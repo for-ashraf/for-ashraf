@@ -60,13 +60,6 @@ I graduated in Computer Science. I have more than 15 years of experience in web 
 
 <img src="https://github-readme-stats.vercel.app/api?username=for-ashraf&&show_icons=true&theme=radical&line_height=27&v=5" alt="Muhammad Ashraf's GitHub Stats" />
 
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.for-ashraf.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=for-ashraf&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
-
-
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@forashraf-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/forashraf)](https://twitter.com/forashraf) [![Linkedin Badge](https://img.shields.io/badge/-forashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ashraf-30031439/)](https://www.linkedin.com/in/muhammad-ashraf-30031439/) [![Gmail Badge](https://img.shields.io/badge/-forazkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:forazkar@gmail.com)](mailto:forazkar@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@muhammadashraf204-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammadashraf204/)](https://www.instagram.com/muhammadashraf204/)
 
