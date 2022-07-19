@@ -25,10 +25,13 @@
 Full Stack Developer | HTML | CSS | JavaScript | PHP | Python | Competitive Programming
 
 ## About :sunglasses:
-I graduated in Computer Science. I have more than 15 years of experience in web development and teaching computer science subjects at various levels. I also have more than ten (10) years of experience managing the IT department of the FGEIs. I am keen to learn new technologies. I am enrolled in Microverse to learn the correct way of coding. 
+
+hi, i'm Muhammad Ashraf, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 ## Communities :dancers:
-- FGEIs Directoragte at [IT cum Education Org](https://fgei-cg.gov.com/)
+- FGEIs Directorate (https://fgei-cg.gov.pk/)
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
