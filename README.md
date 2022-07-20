@@ -26,9 +26,9 @@ Full Stack Developer | HTML | CSS | JavaScript | PHP | Python | Competitive Prog
 
 ## About :sunglasses:
 
-hi, I'm Muhammad Ashraf, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Muhammad Ashraf, a passionate self-taught full-stack web developer and a freelance software engineer from Pakistan. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## Communities :dancers:
 - FGEIs Directorate (https://fgei-cg.gov.pk/)
